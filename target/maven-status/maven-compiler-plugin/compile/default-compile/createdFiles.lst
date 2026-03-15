@@ -1,0 +1,7 @@
+com\typearena\controller\GameController$LeaderboardEntry.class
+com\typearena\model\GameMessage.class
+com\typearena\config\WebSocketConfig.class
+com\typearena\controller\GameController.class
+com\typearena\ServerApplication.class
+com\typearena\model\GameMessage$PlayerInfo.class
+com\typearena\model\GameMessage$MessageType.class
